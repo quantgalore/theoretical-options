@@ -6,4 +6,4 @@ For your desired ticker and adjustment to the implied move, this script will pul
 
 Original Source + Instructions/Methodology - "2024 Is a Weird Year for Quants... "
 
-<img src = "https://github.com/quantgalore/theoretical-options/blob/main/theo-options-pnl.png>
+<img src = "https://github.com/quantgalore/theoretical-options/blob/66cde76aaecbeaa87e102661ffb6c5dc29e73a89/theo-options-pnl.png">
